@@ -41,6 +41,10 @@ namespace Task1
                     break;
                 case 4:
                     result = x / y;
+                    if (Double.IsInfinity(result))
+                    {
+                        Console.WriteLine("Деление на 0");
+                    }
                     break;
                 default:
                     result = 0;
