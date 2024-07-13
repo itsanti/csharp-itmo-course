@@ -42,8 +42,8 @@ namespace Lab2
             double x2 = Convert.ToDouble(coords[2]);
             double y2 = Convert.ToDouble(coords[3]);
 
-            double P = ((x2 - x1) + (y2 - y1)) * 2;
-            double A = (x2 - x1) * (y2 - y1);
+            double P = (Math.Abs(x2 - x1) + Math.Abs(y2 - y1)) * 2;
+            double A = Math.Abs(x2 - x1) * Math.Abs(y2 - y1);
 
             Console.Write("Для вершин ({0:0.###}, {1:0.###}), ({2:0.###}, {3:0.###}) ", x1, y1, x2, y2);
             Console.WriteLine("периметр прямоугольника равен {0:0.###}, а площадь {1:0.###}", P, A);
