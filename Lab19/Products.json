@@ -1,0 +1,112 @@
+[
+  {
+    "code": "001",
+    "brand": "ASUS",
+    "cpuType": "Intel Core i5",
+    "cpuRate": 3.2,
+    "ram": 8,
+    "volume": "1 ТБ",
+    "gpuRam": 4,
+    "price": 50000,
+    "count": 10
+  },
+  {
+    "code": "002",
+    "brand": "Lenovo",
+    "cpuType": "AMD Ryzen 7",
+    "cpuRate": 3.5,
+    "ram": 16,
+    "volume": "512 ГБ SSD",
+    "gpuRam": 6,
+    "price": 75000,
+    "count": 5
+  },
+  {
+    "code": "003",
+    "brand": "Lenovo",
+    "cpuType": "Intel Core i7",
+    "cpuRate": 3.0,
+    "ram": 12,
+    "volume": "256 ГБ SSD",
+    "gpuRam": 2,
+    "price": 60000,
+    "count": 8
+  },
+  {
+    "code": "004",
+    "brand": "Dell",
+    "cpuType": "Intel Core i7",
+    "cpuRate": 3.8,
+    "ram": 16,
+    "volume": "1 ТБ SSD",
+    "gpuRam": 8,
+    "price": 80000,
+    "count": 7
+  },
+  {
+    "code": "005",
+    "brand": "Acer",
+    "cpuType": "AMD Ryzen 5",
+    "cpuRate": 3.6,
+    "ram": 8,
+    "volume": "512 ГБ SSD",
+    "gpuRam": 4,
+    "price": 55000,
+    "count": 9
+  },
+  {
+    "code": "006",
+    "brand": "MSI",
+    "cpuType": "Intel Core i9",
+    "cpuRate": 3.7,
+    "ram": 32,
+    "volume": "1 ТБ SSD",
+    "gpuRam": 11,
+    "price": 120000,
+    "count": 4
+  },
+  {
+    "code": "007",
+    "brand": "Apple",
+    "cpuType": "Apple M1",
+    "cpuRate": 3.2,
+    "ram": 8,
+    "volume": "256 ГБ SSD",
+    "gpuRam": 8,
+    "price": 110000,
+    "count": 6
+  },
+  {
+    "code": "008",
+    "brand": "Alienware",
+    "cpuType": "Intel Core i9",
+    "cpuRate": 3.6,
+    "ram": 32,
+    "volume": "1 ТБ SSD",
+    "gpuRam": 8,
+    "price": 130000,
+    "count": 32
+  },
+  {
+    "code": "009",
+    "brand": "Razer",
+    "cpuType": "Intel Core i7",
+    "cpuRate": 3.5,
+    "ram": 16,
+    "volume": "512 ГБ SSD",
+    "gpuRam": 6,
+    "price": 90000,
+    "count": 4
+  },
+  {
+    "code": "010",
+    "brand": "Samsung",
+    "cpuType": "Intel Core i5",
+    "cpuRate": 3.4,
+    "ram": 8,
+    "volume": "256 ГБ SSD",
+    "gpuRam": 4,
+    "price": 60000,
+    "count": 10
+  }
+]
